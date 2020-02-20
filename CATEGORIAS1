@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]TV AO VIVO[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>TV AO VIVO</name>
 <thumbnail>https://ia801408.us.archive.org/6/items/filmes_20200218_0450/FILMES.png
 <externallink>https://</externallink>
 <fanart>https://ia601401.us.archive.org/8/items/blog_20200220/conversor-de-canais-tv-box-com-suporte-e-garantia-e-config-D_NQ_NP_927568-MLB25871233104_082017-F.jpg</fanart>
@@ -16,7 +16,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>FILMES</name>
 <thumbnail>https://ia801408.us.archive.org/6/items/filmes_20200218_0450/SERIES.png
 <externallink>https://</externallink>
 <fanart>https://ia801401.us.archive.org/8/items/blog_20200220/portada-vengadores-videos.jpg</fanart>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>SERIES</name>
 <thumbnail>https://ia801408.us.archive.org/6/items/filmes_20200218_0450/SERIES2.png
 <externallink>https://</externallink>
 <fanart>https://ia601401.us.archive.org/8/items/blog_20200220/o63dz51jwwo6.jpg</fanart>
@@ -44,7 +44,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]DESENHOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>DESENHOS</name>
 <thumbnail>https://ia801408.us.archive.org/6/items/filmes_20200218_0450/DESENHOS.png
 <externallink>https://</externallink>
 <fanart>https://ia601401.us.archive.org/8/items/blog_20200220/blog.jpg</fanart>
